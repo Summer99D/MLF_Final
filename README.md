@@ -1,4 +1,4 @@
-# MLF_Final
+# Fraud Detection Model (XGBoost)
 
 [sample solution part 1](https://www.kaggle.com/c/ieee-fraud-detection/discussion/111284)
 
